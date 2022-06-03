@@ -69,7 +69,7 @@ INTERNAL_IPS = [
     # ...
 ]
 
-ROOT_URLCONF = 'storefront.urls'
+ROOT_URLCONF = 'storefront3.urls'
 
 TEMPLATES = [
     {

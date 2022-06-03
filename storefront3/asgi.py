@@ -11,7 +11,7 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-# os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'storefront.settings')
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'storefront.settings.dev')
+# os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'storefront3.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'storefront3.settings.dev')
 
 application = get_asgi_application()
