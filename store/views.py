@@ -63,7 +63,7 @@
 import collections
 import imp
 from math import prod
-from msilib.schema import ReserveCost, ServiceInstall
+# from msilib.schema import ReserveCost, ServiceInstall
 from multiprocessing import context
 from operator import methodcaller
 from os import stat
